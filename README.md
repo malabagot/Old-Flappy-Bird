@@ -1,4 +1,4 @@
-## Flappy Bird Game
+# Flappy Bird Game
 
 ## Overview
 Simple flappy bird. 
